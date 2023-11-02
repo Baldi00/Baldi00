@@ -1,17 +1,17 @@
 ## Hi!
 - 😄 My name is Baldelli Andrea
 - 🎓 I got a Bachelor's Degree in Computer Engineering @ Politecnico di Milano
-- 🎮 I'm currently styding Game Programming @ Digital Bros Game Academy
+- 🎮 I'm currently studying Game Programming @ Digital Bros Game Academy
 - 🏗 Take a look at my recent <a href="./Videogame%20portfolio.pdf">videogame projects</a>
 
 ## Languages and Tools
 
 My interests and skills mainly focus on Game Programming
 
-- <img src="./Logos/Unity.svg" alt="Unity" title="Unity" height="20"/> I know **Unity** and **C#** very well
-- <img src="./Logos/Unreal.svg" alt="Unreal Engine" title="Unreal Engine" height="20"/> I'm learning **Unreal Engine** and **C++**
-- <img src="./Logos/GPU.png" alt="GPU" title="GPU Programming" height="20"/> I'm fascinated by **Computer Graphics** and **Shader Programming** (mainly with HLSL)
-- <img src="./Logos/Java.svg" alt="Java" title="Java" height="20"/> I also know **Java** very well
+- <img src="./Logos/Unity.svg#gh-light-mode-only" alt="Unity" title="Unity" height="20"/><img src="./Logos/Unity-w.svg#gh-dark-mode-only" alt="Unity" title="Unity" height="20"/> I know **Unity** and **C#** very well
+- <img src="./Logos/Unreal.svg#gh-light-mode-only" alt="Unreal Engine" title="Unreal Engine" height="20"/><img src="./Logos/Unreal-w.svg#gh-dark-mode-only" alt="Unreal Engine" title="Unreal Engine" height="20"/> I'm learning **Unreal Engine** and **C++**
+- <img src="./Logos/GPU.png#gh-light-mode-only" alt="GPU" title="GPU Programming" height="20"/><img src="./Logos/GPU-w.png#gh-dark-mode-only" alt="GPU" title="GPU Programming" height="20"/> I'm fascinated by **Computer Graphics** and **Shader Programming** (mainly with HLSL)
+- <img src="./Logos/Java.svg#gh-light-mode-only" alt="Java" title="Java" height="20"/><img src="./Logos/Java-w.svg#gh-dark-mode-only" alt="Java" title="Java" height="20"/> I also know **Java** very well
 
 ## Favourite Books and Online Courses
 
