@@ -1,8 +1,10 @@
 ## Hi!
 - 😄 My name is Baldelli Andrea
+- 🎓 I graduated in Computer Science @ Enrico Fermi Technical Institute in Mantua
 - 🎓 I got a Bachelor's Degree in Computer Engineering @ Politecnico di Milano
-- 🎮 I'm currently studying Game Programming @ Digital Bros Game Academy
-- 🏗 Take a look at my recent <a href="./Videogame%20portfolio.pdf">videogame projects</a>
+- 🎓 I studied Game Programming for 2 years on Unity and Unreal @ Digital Bros Game Academy
+- 🎮 Take a look at my <a href="https://baldi00.github.io/">Videogame Portfolio</a>
+- 🔖 Here you can find my <a href="https://baldi00.github.io/other/CV_Baldelli_Andrea_20240430.pdf">CV</a>
 
 ## Languages and Tools
 
@@ -10,7 +12,7 @@ My interests and skills mainly focus on Game Programming
 
 - <img src="./Logos/Unity.svg#gh-light-mode-only" alt="Unity" title="Unity" height="20"/><img src="./Logos/Unity-w.svg#gh-dark-mode-only" alt="Unity" title="Unity" height="20"/> I know **Unity** and **C#** very well
 - <img src="./Logos/Unreal.svg#gh-light-mode-only" alt="Unreal Engine" title="Unreal Engine" height="20"/><img src="./Logos/Unreal-w.svg#gh-dark-mode-only" alt="Unreal Engine" title="Unreal Engine" height="20"/> I'm learning **Unreal Engine** and **C++**
-- <img src="./Logos/GPU.png#gh-light-mode-only" alt="GPU" title="GPU Programming" height="20"/><img src="./Logos/GPU-w.png#gh-dark-mode-only" alt="GPU" title="GPU Programming" height="20"/> I'm fascinated by **Computer Graphics** and **Shader Programming** (mainly with HLSL)
+- <img src="./Logos/GPU.png#gh-light-mode-only" alt="GPU" title="GPU Programming" height="20"/><img src="./Logos/GPU-w.png#gh-dark-mode-only" alt="GPU" title="GPU Programming" height="20"/> I'm fascinated by **Computer Graphics** and **Shader Programming**
 - <img src="./Logos/Java.svg#gh-light-mode-only" alt="Java" title="Java" height="20"/><img src="./Logos/Java-w.svg#gh-dark-mode-only" alt="Java" title="Java" height="20"/> I also know **Java** very well
 
 ## Favourite Books and Online Courses
@@ -19,6 +21,10 @@ My interests and skills mainly focus on Game Programming
 - <a href="https://www.apogeonline.com/libri/clean-code-robert-c-martin/">Clean Code</a> by Robert C. Martin
 - <a href="https://youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V&si=vhVBQ-sPWhSR_2Sc">Math for Game Devs</a> and <a href="https://youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z&si=Dsey2law1wzCmes4">Shaders for Game Dev</a> by Freya Holmér @ Future Games
 - <a href="https://youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh&si=Ty8Qs5ksj8UP_WOD">Introduction to Computer Graphics</a> and <a href="https://youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN&si=YdBHCTZJExQyGb_N">Interactive Computer Graphics</a> by Cem Yuksel @ School of Computing, University of Utah
+
+### I'm (slowly) reading
+- <a href="https://www.gameenginebook.com/">Game Engine Architecture</a> by Jason Gregory
+- <a href="https://www.realtimerendering.com/">Real-Time Rendering</a> by Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki, and Sébastien Hillaire
 
 ## Outside coding
 I'm curious about almost all scientific fields, in particular I'm very passionate about astronomy and astrophysics 🛰<br>
