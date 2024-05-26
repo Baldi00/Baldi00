@@ -4,7 +4,7 @@
 - 🎓 I got a Bachelor's Degree in Computer Engineering @ Politecnico di Milano
 - 🎓 I studied Game Programming for 2 years on Unity and Unreal @ Digital Bros Game Academy
 - 🎮 Take a look at my <a href="https://baldi00.github.io/">Videogame Portfolio</a>
-- 🔖 Here you can find my <a href="https://baldi00.github.io/other/CV_Baldelli_Andrea_20240430.pdf">CV</a>
+- 🔖 Here you can find my <a href="https://baldi00.github.io/other/CV_Baldelli_Andrea_20240526.pdf">CV</a>
 
 ## Languages and Tools
 
